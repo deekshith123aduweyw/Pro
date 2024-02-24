@@ -1,0 +1,48 @@
+body{
+    background-image:url(./all-ben-10-characters-u2.jfif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    border-style: solid;
+    color: white;
+    border-color: orange;
+    background-color: orange;
+    text-align: center;
+    margin: 160px 200px 0px 200px;
+}
+h2{
+    text-align: center;
+}
+
+/*.main-container{
+    display: flex;
+    justify-content: center;
+}*/
+.Heroes{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    
+}
+.villains{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+#humong{
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+}
+#mark4{
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+}
+#mark5{
+    border-style: solid;
+    border-color: orange;
+    background-color: orange;
+}
+
